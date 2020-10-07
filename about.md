@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm always keen to work on exciting projects to further push ways to interact with users and to deliver a great experience.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jclwong.apps@gmail.com](mailto:jclwong.apps@gmail.com)
